@@ -105,7 +105,6 @@ The workflow combines **TensorFlow**, **TensorFlow Model Optimization Toolkit (T
 ├── har_model.h5                              # Baseline trained model
 ├── har_model_pruned.h5                       # 80% pruned fine-tuned model
 ├── HAR_HLS4ML_Project.zip                    # hls4ml-generated FPGA project files
-├── Report for ReadMe.pdf                     # Detailed project report
 └── README.md                                 # This file
 
 
