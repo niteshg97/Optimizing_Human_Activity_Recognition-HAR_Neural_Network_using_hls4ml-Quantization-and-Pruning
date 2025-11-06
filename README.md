@@ -1,0 +1,2 @@
+# Optimizing-a-HAR-Human-Activity-Recognition-Neural-Network-using-hls4ml-Quantization-and-Pruning
+Hardware-aware ML co-design for FPGAs using hls4ml. This project optimizes a Keras HAR neural network using 16-bit quantization and 80% pruning. The result is a low-latency, low-power design ideal for real-time edge AI, with applications in wearable fitness trackers, real-time fall detection, and industrial IoT monitoring.
