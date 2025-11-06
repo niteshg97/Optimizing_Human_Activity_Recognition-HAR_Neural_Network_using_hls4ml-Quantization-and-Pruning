@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![hls4ml](https://img.shields.io/badge/hls4ml-FPGA--Optimized-green.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ---
 
@@ -150,9 +150,7 @@ execute Optimizing_a_HAR_Neural_Network.ipynb
 
 
 
-## 🛡️ License  
-
-**MIT License**  
+  
 Copyright (c) 2025 Nitesh Kumar
 
 
